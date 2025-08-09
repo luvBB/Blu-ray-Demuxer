@@ -14,6 +14,7 @@ A simple utility for demuxing Blu-ray content directly on your Windows PC.
 ## Usage
 1. Make sure the requirements above are installed.
 2. Download or clone this repository.
-3. Run the script:
+3. Edit the eac3to.exe path in playBD.py
+4. Run the script:
    ```bash
    python playBD.py (double click it)
