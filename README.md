@@ -1,6 +1,6 @@
 # Blu-ray Demuxer
 
-A simple utility for playing and demuxing Blu-ray content directly on your Windows PC.
+A simple utility for demuxing Blu-ray content directly on your Windows PC.
 
 ---
 
